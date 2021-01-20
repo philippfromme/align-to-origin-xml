@@ -1,0 +1,16 @@
+{
+  "name": "align-to-origin-xml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bpmn-moddle": "^7.0.4",
+    "min-dash": "^3.5.2"
+  }
+}
